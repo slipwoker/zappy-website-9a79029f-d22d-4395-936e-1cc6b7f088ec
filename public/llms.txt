@@ -1,0 +1,66 @@
+# Silver Hoof Farm — Generative Engine Optimization Map
+
+> A horse farm and equestrian center offering a nature-connected experience rooted in the world of horses and riding. The business likely combines the rustic charm of farm life with the discipline and elegance of equestrian sports, appealing to horse lovers and riding enthusiasts of all levels.
+
+---
+
+## Pages
+
+### Home
+https://silver-hoof-farm-9a79029f.zappy5.app
+Discover Silver Hoof Farm, where rustic charm meets equestrian elegance. Explore luxury farm events, youth riding programs, and venue rentals rooted in a true connection with horses. Book your visit today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://silver-hoof-farm-9a79029f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://silver-hoof-farm-9a79029f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://silver-hoof-farm-9a79029f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://silver-hoof-farm-9a79029f.zappy5.app
+- Endpoint: https://silver-hoof-farm-9a79029f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Silver Hoof Farm
+A horse farm and equestrian center offering a nature-connected experience rooted in the world of horses and riding. The business likely combines the rustic charm of farm life with the discipline and elegance of equestrian sports, appealing to horse lovers and riding enthusiasts of all levels.
+
+## Target Audience
+- Equestrian Enthusiasts
+- Youth Riders' Programs
+- Luxury Event Organizers
+
+## Industry
+Equestrian / Agriculture
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://silver-hoof-farm-9a79029f.zappy5.app/sitemap.xml
+- Robots: https://silver-hoof-farm-9a79029f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://silver-hoof-farm-9a79029f.zappy5.app/llms-full.txt
